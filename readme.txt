@@ -14,7 +14,7 @@ library(shiny)
 
 ## Installation
 
-Available in GitHub
+Available in GitHub at https://github.com/iduda2018/ShinyApp_Crypto
 
 ## Collaboration
 
