@@ -1,7 +1,7 @@
 ###Shiny App to Analyze Cryptocurrency 
 ###General Info
 
-This application allows to find Closed Stock Prices for the same day between three different coins of choice.
+This application allows to monitor stock price of the crypto coins for the same day between three different coins of choice.
 
 ## Technologies
 
@@ -19,11 +19,11 @@ Available in GitHub at https://github.com/iduda2018/ShinyApp_Crypto
 
 ## Collaboration
 
-To pick the coin there should be a check mark near the coin of choice on a sidebar. There is only 1 choice at a time allowed.
-To pick the date there should be a date of choice in a calander search line. Once the choice of inputs are made, coursor need to be on a plot.
-Dynamic label will allow to see the price on a desired day by pointing it on the intersection of the vertical red line, indicating desired day,
+To pick the coin there should be a check mark need to be selected near the coin of choice on a sidebar to the left. 
+To pick the date there should be a date of choice in a calander search line. Once the choices of inputs are made, cursor needs to be moved to the plot on a right.
+Dynamic label will appear. Cursur needs to be pointed on a desired day which is the intersection of the vertical red line, indicating the selected day,
  and line graph, indicating the price of coin on that day. To make changes, simply change the inputs on the left sidebar and point back on the
-new intersection of a red line and a graph line to see the values of Price of the Coin.
+new intersection of a red line and a graph line to see the new values of a selection.
 
 
 
